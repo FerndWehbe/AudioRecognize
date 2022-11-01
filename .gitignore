@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# code
+.vscode
+# Folder with sounds
+data/
